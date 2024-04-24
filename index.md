@@ -14,5 +14,11 @@ TKAS
 
 TKAS
 
-
+## Imágenes
 ![Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Código
+
+```
+$git clone https://github.com/test.git
+```
